@@ -1,0 +1,23 @@
+.main{
+    color: white;
+    background-color: black;
+    padding: 20rem;
+}
+
+.tagLine{
+    color: white;
+}
+.name{
+    font-size: 5rem;;
+}
+
+.photoContainer{
+    display: flex;
+    justify-content: flex-end;
+}
+.myPhoto{
+    width: 30%;
+    height: 100%;
+    background-size: contain;
+    padding-right: 5rem;
+}
